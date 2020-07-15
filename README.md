@@ -5,5 +5,5 @@ This guide will show you how to create a styled React website using prebuilt Rea
 [View Tutorial](https://www.boorje.com/style-react-app-material-ui/)
 
 ## License
-This project is open source and available under the [MIT License](https://github.com/boorje/aws-amplify-demo/blob/master/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/boorje/boorje-adventures/blob/master/LICENSE).
 
